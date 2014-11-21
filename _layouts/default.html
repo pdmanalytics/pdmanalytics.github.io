@@ -3,13 +3,20 @@
     <head>
         <meta charset="UTF-8">
         <title>{{ page.title }}</title>
+        <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css" rel="stylesheet">
     </head>
     <body>
-        <div>
-            <ul>
-                <li> <a href="./index.html">Home</a></li>
+        <div class="navbar">
+        <div class="navbar-inner">
+        <div class="container">
+        <div class="nav-collapse">
+            <ul class="nav">
+                <li class="active"> <a href="./index.html">Home</a></li>
                 <li> <a href="./contact.html">Contact</a></li>
             </ul>
+        </div>
+        </div>
+        </div>
         </div>
         <div class="container">
             {{ content }}
