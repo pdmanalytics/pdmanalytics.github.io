@@ -6,8 +6,7 @@ title: PDM Analytics | Home
 Software development for
 
  - Data wrangling
-    * joining of data sets
-    * reshaping
+    * joining and reshaping of data sets
     * data verification and cleaning
  - Analysis
     * descriptive statistics
