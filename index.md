@@ -1,11 +1,20 @@
 ---
 layout: default
-title: PDM Analytics
+title: PDM Analytics | Home
 ---
 
-Test place holder
+Software development for
 
- - Item 1
- - Item 2
+ - Data wrangling
+    * joining of data sets
+    * reshaping
+    * data verification and cleaning
+ - Analysis
+    * descriptive statistics
+ - Predictive analytics
+    * supervised and unsupervised machine learning
+ - Modelling
+    * Monte-Carlo
 
-Content of the document......
+
+
