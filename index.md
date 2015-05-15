@@ -41,9 +41,14 @@ solutions that will unleash the value locked within your data.
     </ul>
 </ul>
 
-<!--h3> How we do it </h3>
-Over the years we have programmed in many languages and used various analysis environments.
-We work as much as possible with open source or freely available tools, and can comfortably
-adapt to your requirements.  -->
+<h3> How we do it </h3>
+    Over the years we have programmed in many languages and used various analysis environments.
+    <br>
+    Currently we are working mainly with:
+    <ul>
+        <li> R, Java, Fortran, Python</li>
+        <li> RStudio, Matlab/Octave </li>
+    </ul>
+    and can comfortably adapt to your requirements.
 
 </div>
